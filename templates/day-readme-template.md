@@ -1,6 +1,6 @@
-# 📅 Day 01
+# 📅 Day XX
 
-> **Date:** _[Add date here]_  
+> **Date:** _YYYY-MM-DD_  
 > **Status:** ⬜️ Not Started
 
 ---
@@ -56,4 +56,4 @@ _What went well? What could be improved?_
 
 ---
 
-[⬅️ Back to Journey](../) | [Day 02 →](../day02/)
+[← Day XX-1](../dayXX-1/) | [Day XX+1 →](../dayXX+1/)

@@ -3,3 +3,39 @@
 *.temp
 .DS_Store
 Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS files
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dependencies
+node_modules/
+venv/
+env/
+.env
+
+# Personal notes (if needed)
+.personal/
+scratch/
+drafts/

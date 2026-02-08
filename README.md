@@ -2,6 +2,10 @@
 
 > **90 Days of Relentless Growth & Transformation**
 
+[![Days](https://img.shields.io/badge/Days-90-blue)](./journey/)
+[![Progress](https://img.shields.io/badge/Progress-0%25-red)](./journey/PROGRESS.md)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](./journey/)
+
 Welcome to my 3-month hardcore journey! This repository tracks every single day of my transformation, documenting challenges, victories, learnings, and progress.
 
 ---
@@ -32,6 +36,18 @@ Progress: [░░░░░░░░░░░░░░░░░░░░] 0% Comp
 
 ---
 
+## 📑 Table of Contents
+
+- [Journey Overview](#-journey-overview)
+- [Navigation](#-navigation)
+- [Daily Structure](#-daily-structure)
+- [Commitment](#-commitment)
+- [Helpful Tools](#-helpful-tools)
+- [Quick Start Guide](./QUICKSTART.md) 🚀
+- [Getting Started](#-lets-go)
+
+---
+
 ## 🚀 Daily Structure
 
 Each day folder contains:
@@ -50,6 +66,25 @@ This is a commitment to:
 - ✅ Consistent progress
 - ✅ Honest reflection
 - ✅ Relentless improvement
+
+---
+
+## 🛠️ Helpful Tools
+
+### Automation Scripts
+The repository includes helpful scripts in the `/scripts` directory:
+- **`validate-structure.sh`** - Validate repository structure
+- **`progress-stats.sh`** - Display progress statistics
+- **`generate-template.py`** - Generate daily templates
+
+See [scripts/README.md](./scripts/README.md) for detailed usage.
+
+---
+
+## 📖 Documentation
+
+- [Contributing Guidelines](./CONTRIBUTING.md) - Learn how to maintain consistency
+- [License](./LICENSE) - MIT License
 
 ---
 

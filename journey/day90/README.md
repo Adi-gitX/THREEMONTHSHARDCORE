@@ -56,4 +56,4 @@ _What went well? What could be improved?_
 
 ---
 
-[← Day 89 ](../day89/) | [Day 91 →](../day91/)
+[← Day 89 ](../day89/) | [🏆 Journey Complete!](../)
