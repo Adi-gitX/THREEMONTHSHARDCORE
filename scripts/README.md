@@ -52,6 +52,19 @@ python3 scripts/generate-template.py 1
 python3 scripts/generate-template.py 15 2026-02-22
 ```
 
+### 4. `motivational-quote.py`
+**Purpose:** Displays a random motivational quote for daily inspiration
+
+**Usage:**
+```bash
+python3 scripts/motivational-quote.py
+```
+
+**Features:**
+- Random inspirational quotes
+- Great for starting your day
+- Programming-specific quotes included
+
 ## Running Scripts
 
 All scripts should be run from the repository root directory:

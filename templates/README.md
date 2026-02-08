@@ -41,6 +41,25 @@ Daily notes template with:
 - Links and references
 - Questions
 
+### 5. `weekly-summary-template.md`
+Weekly summary template with:
+- Week overview and focus
+- Accomplishments and tasks
+- Learning highlights
+- Challenges and solutions
+- Statistics and metrics
+- Reflection and next week goals
+
+### 6. `monthly-summary-template.md`
+Monthly summary template with:
+- Month overview and theme
+- Major accomplishments
+- Learning and growth metrics
+- Detailed statistics
+- Challenges and resilience
+- Deep reflection
+- Next month goals
+
 ## Using Templates
 
 ### Manual Copy

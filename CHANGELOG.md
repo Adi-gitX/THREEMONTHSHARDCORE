@@ -10,17 +10,22 @@ All notable changes and improvements to this project will be documented in this 
 - Created QUICKSTART.md guide for easy onboarding
 - Created CONTRIBUTING.md with comprehensive guidelines
 - Created LICENSE file (MIT License)
+- Created CHANGELOG.md to track all improvements
 - Added `/scripts` directory with automation tools:
   - `validate-structure.sh` - Repository structure validation
   - `progress-stats.sh` - Progress statistics display
   - `generate-template.py` - Daily template generator
+  - `motivational-quote.py` - Daily motivational quotes
 - Added `/templates` directory with reusable templates:
   - `day-readme-template.md` - Daily README template
   - `learnings-template.md` - Daily learnings template
   - `tasks-template.md` - Daily tasks template
   - `notes-template.md` - Daily notes template
-- Created README files for scripts and templates directories
+  - `weekly-summary-template.md` - Weekly summary template
+  - `monthly-summary-template.md` - Monthly summary template
+- Created comprehensive README files for scripts and templates directories
 - Enhanced .gitignore with comprehensive exclusions
+- Added helpful tools section to main README
 
 ### Fixed
 - Fixed typo in CompletePlan directory: "Semister6.csv" → "Semester6.csv"
