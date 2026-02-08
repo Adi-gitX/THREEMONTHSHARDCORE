@@ -56,4 +56,4 @@ _What went well? What could be improved?_
 
 ---
 
-[← Day 00 ](../day00/) | [Day 02 →](../day02/)
+[🏠 Home](../../) | [Day 02 →](../day02/)
