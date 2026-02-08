@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Daily Study Plan Extractor
-Extracts daily tasks from Semister6.csv and generates markdown files
+Extracts daily tasks from Semester6.csv and generates markdown files
 """
 
 import csv
@@ -189,6 +189,7 @@ def parse_csv_to_daily_plans(csv_path, output_dir):
 
 if __name__ == "__main__":
     script_dir = Path(__file__).parent.parent
+    # Note: CSV file is named Semister6.csv (original spelling from source)
     csv_path = script_dir / "Semister6.csv"
     output_dir = script_dir / "daily-plans"
     

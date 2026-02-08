@@ -139,7 +139,7 @@ For detailed study materials, visit the subject-specific folders:
 
 Track your progress using:
 
-1. **[Main CSV](./Semister6.csv)** - Detailed daily plan
+1. **[Main CSV](./Semister6.csv)** - Detailed daily plan *(Note: Original filename "Semister6.csv" preserved)*
 2. **[Journey Folder](../journey/)** - Daily documentation
 3. **[Progress Tracker](../journey/PROGRESS.md)** - Visual progress
 4. **[Goals](../journey/GOALS.md)** - Milestones & objectives

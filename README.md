@@ -75,7 +75,7 @@ Progress: [░░░░░░░░░░░░░░░░░░░░] 0% Comp
   - [Web Development](./CompletePlan/subjects/web-development/)
 
 ### 📅 Daily Tracking
-- **[📁 Journey Folder](./journey/)** - Daily documentation (90 days)
+- **[📁 Journey Folder](./journey/)** - Daily documentation (91 days)
 - **[📈 Progress Tracker](./journey/PROGRESS.md)** - Visual progress tracking
 - **[🎯 Goals & Milestones](./journey/GOALS.md)** - Objectives & achievements
 - **[📋 Daily Plans](./CompletePlan/daily-plans/)** - Pre-planned daily schedules
